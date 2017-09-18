@@ -1,0 +1,16 @@
+001,Rajiv,Reddy,21,9848022337,Hyderabad,89
+002,siddarth,Battacharya,22,9848022338,Kolkata,78 
+003,Rajesh,Khanna,22,9848022339,Delhi,90 
+004,Preethi,Agarwal,21,9848022330,Pune,93 
+005,Trupthi,Mohanthy,23,9848022336,Bhuwaneshwar,75 
+006,Archana,Mishra,23,9848022335,Chennai,81 
+007,Komal,Nayak,24,9848022334,trivendram,83 
+008,Bharathi,Nambiayar,24,9848022333,Chennai,72
+009,Rajiv,Reddy2,21,9848022337,Hyderabad,82
+010,siddarth,Battacharya2,22,9848022338,Kolkata,78 
+011,Rajesh,Khanna2,22,9848022339,Delhi,90 
+012,Preethi,Agarwal2,21,9848022330,Pune,94
+013,Trupthi,Mohanthy2,23,9848022336,Bhuwaneshwar,75 
+014,Archana,Mishra2,23,9848022335,Chennai,81
+015,Komal,Nayak2,24,9848022334,trivendram,81 
+016,Bharathi,Nambiayar2,24,9848022333,Chennai,70
